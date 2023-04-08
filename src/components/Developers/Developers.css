@@ -1,0 +1,25 @@
+.developers p {
+  font-size: 1.3rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+.developers .btn-primary {
+  background: #8755f0 !important;
+  border-radius: 6px;
+  border: none !important;
+  width: 210px !important;
+}
+
+/* Media Query */
+@media (max-width: 768px) {
+  p {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 425px) {
+  .developers p {
+    font-size: 1rem;
+  }
+}

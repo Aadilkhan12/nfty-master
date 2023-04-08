@@ -1,0 +1,27 @@
+.main h1 {
+  font-size: 250px;
+  font-weight: 700;
+}
+.main {
+  background: #271065 !important;
+}
+
+.main p {
+  font-size: 29px !important;
+}
+
+/* Media Query */
+@media screen and (max-width: 425px) {
+  .main h1 {
+    font-size: 160px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .main h1 {
+    font-size: 160px;
+  }
+  .main p {
+    font-size: 18px !important;
+  }
+}

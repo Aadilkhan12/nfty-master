@@ -1,0 +1,14 @@
+.process {
+  background: #371381;
+}
+
+.process .card {
+  height: 450px;
+  background: #8755f0;
+  border-radius: 14px;
+}
+
+h3 {
+  font-size: 41px;
+  font-weight: bold;
+}
